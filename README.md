@@ -10,7 +10,7 @@
 ## 📖 Project Overview
 
 이 프로젝트는 확장 가능한 UI 시스템을 구축하기 위한 아키텍처 연구 결과물입니다.
-단순히 컴포넌트를 나열하는 방식을 넘어, **Design Tokens**를 단일 진실 공급원(Single Source of Truth)으로 정의하고, 이를 기반으로 **Light/Dark 모드가 완벽하게 동기화되는 테마 엔진**을 구현했습니다. 또한, 외부 라이브러리(Storybook)에 의존하지 않고 **자체적인 컴포넌트 문서화 셸(StorybookShell)**을 직접 개발하여 시스템의 자립성을 증명했습니다.
+단순히 컴포넌트를 나열하는 방식을 넘어, **Design Tokens**를 단일 진실 공급원(Single Source of Truth)으로 정의하고, 이를 기반으로 **Light/Dark 모드가 완벽하게 동기화되는 테마 엔진**을 구현했습니다. 또한, 외부 라이브러리(Storybook)에 의존하지 않고 자체적인 컴포넌트 문서화 셸(StorybookShell)을 직접 개발하여 시스템의 자립성을 증명했습니다.
 
 ## 🔑 Key Technical Features
 
